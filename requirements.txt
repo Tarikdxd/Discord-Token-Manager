@@ -1,0 +1,7 @@
+discord.py-self
+PyNaCl
+customtkinter
+Pillow
+requests
+pystray
+psutil

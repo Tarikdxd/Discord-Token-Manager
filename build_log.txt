@@ -1,0 +1,21 @@
+200 INFO: PyInstaller: 6.19.0, contrib hooks: 2026.4
+200 INFO: Python: 3.14.3
+229 INFO: Platform: Windows-10-10.0.19045-SP0
+229 INFO: Python environment: C:\Users\kamid\Desktop\tokenjoin\discordtokken\.venv
+230 INFO: wrote C:\Users\kamid\Desktop\tokenjoin\discordtokken\Kanser_TManager.spec
+241 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\kamid\\Desktop\\tokenjoin\\discordtokken\\.venv\\Scripts\\pyinstaller.exe',
+ 'C:\\Users\\kamid\\AppData\\Local\\Python\\pythoncore-3.14-64\\python314.zip',
+ 'C:\\Users\\kamid\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs',
+ 'C:\\Users\\kamid\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib',
+ 'C:\\Users\\kamid\\AppData\\Local\\Python\\pythoncore-3.14-64',
+ 'C:\\Users\\kamid\\Desktop\\tokenjoin\\discordtokken\\.venv',
+ 'C:\\Users\\kamid\\Desktop\\tokenjoin\\discordtokken\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\kamid\\Desktop\\tokenjoin\\discordtokken']
+666 INFO: Appending 'datas' from .spec
+674 INFO: checking Analysis
+915 INFO: checking PYZ
+1010 INFO: checking PKG
+1115 INFO: Bootloader C:\Users\kamid\Desktop\tokenjoin\discordtokken\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+1115 INFO: checking EXE
+1157 INFO: Build complete! The results are available in: C:\Users\kamid\Desktop\tokenjoin\discordtokken\dist
